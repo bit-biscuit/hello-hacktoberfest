@@ -22,7 +22,7 @@ For example:
 ```
 git clone https://github.com/yourname/hello-hacktoberfest.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `yourname` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
 ## Create a branch
 
